@@ -18,4 +18,4 @@ TDDA 成績上傳
 目標結果：(例：[dancesportlive](http://dancesportlive.net/dsl_tw/results/2019/20191026/by_number.php))
 
 截圖如下：
-[Imgur](https://i.imgur.com/c8QqtyW.jpg)
+![Imgur](https://i.imgur.com/c8QqtyW.jpg)
