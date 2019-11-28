@@ -10,6 +10,18 @@ TDDA 成績上傳工具:
 
 討論紀錄
 ======
+
+2019-11-27 (三) 07:25
+
+@王建富(Michael Wang)
+
+results.zip
+
+成績Date 如上，
+
+參考網站：
+http://www.mudaresults.com/
+
 2019-11-01 (五) 10:55
 
 @王老師
